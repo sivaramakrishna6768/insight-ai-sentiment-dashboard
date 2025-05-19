@@ -37,6 +37,18 @@ INSIGHT-AI/
 
 ---
 
+---
+
+## 🌐 Live Demo
+
+You can explore the live, interactive dashboard here:
+
+👉 [InsightAI – Sentiment Analysis Dashboard]([https://your-username-insightai.streamlit.app](https://insight-ai-sentiment-dashboard-bwtmswcb8odx2yti6ybism.streamlit.app/))
+
+No installation required — simply open the link and start exploring sentiment trends, keyword patterns, and feedback insights across thousands of real user reviews.
+
+---
+
 ## 🚀 How to Run Locally
 
 ### 1. Clone the repository

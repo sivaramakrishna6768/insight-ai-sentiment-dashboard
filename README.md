@@ -1,6 +1,9 @@
 
 # InsightAI – Feedback Sentiment Analysis Dashboard
 
+[![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://insight-ai-sentiment-dashboard-bwtmswcb8odx2yti6ybism.streamlit.app/)
+
+
 📊 InsightAI is a sentiment analysis and keyword analytics dashboard built with Python, Pandas, Streamlit, and VADER NLP.  
 It processes user reviews from the Google Play Store and delivers actionable insights through dynamic visualizations.
 

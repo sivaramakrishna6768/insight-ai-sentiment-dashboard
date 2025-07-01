@@ -98,8 +98,11 @@ Google Play Store User Reviews Dataset
 
 ---
 
-## 🙌 Author
+## 📞 Credits
 
-Siva Ramakrishna Palaparthy
+This project was built by Siva Ramakrishna Palaparthy
+
+M.S. Computer Science, Syracuse University  
+Email: krishpalaparthy6768@gmail.com
 
 ---
